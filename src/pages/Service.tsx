@@ -1,7 +1,6 @@
-// pages/Service.txs
+// Service.tsx
 
 import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from "@ionic/react";
-import React from "react";
 
 const Service: React.FC = () => {
     return (
